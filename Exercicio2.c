@@ -3,7 +3,7 @@
 #include <string.h>   // Para manipulação de strings 
 #include <stdbool.h>  // Para usar tipos booleanos 
 
-// --- Definições e Estruturas ---
+// Definições e Estruturas 
 
 #define MAX_CIDADES 100 // Número máximo de cidades no mapa
 #define NOME_CIDADE_MAX 50 // Tamanho máximo do nome da cidade
